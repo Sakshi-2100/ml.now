@@ -1,3 +1,1 @@
-# ml.now
-## start
-repository for ml course accesible for everyone
+It consists of the assignments of Machine Learning Classes conducted by Softpro 
